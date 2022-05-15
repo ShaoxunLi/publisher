@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConsoleApplication2" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="OPCAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ABB.AC800MC_OpcDaServer.3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
